@@ -1,0 +1,210 @@
+/* CSS Document */
+*{
+	padding:0;
+	margin:0;
+	}
+a{
+	text-decoration:none;
+	}
+.a1{
+	height:106px;
+	}
+.b1{
+	width:964px;
+	height:106px;
+	margin:0 auto;
+	}
+.b1 h2{
+	line-height:106px;
+	float:left;
+	}
+.b1 ul{
+	padding-left:730px;
+	}
+.b1 ul li{
+	list-style:none;
+	float:left;	
+	font-size:12px;
+	padding:5px 15px;
+	background-image:url(img1/1.png);
+	background-repeat:no-repeat;
+	}
+.b1 ul li:nth-child(1){
+	background-position:left 7px;
+	}
+.b1 ul li:nth-child(2){
+	background-position:left -12px;
+	}
+.b1 ul li:nth-child(3){
+	background-position:left -32px;
+	}
+.b1 ul li a{
+	color:#999;
+	}
+.a2{
+	height:38px;
+	border-top:2px solid #0d3d8f;
+	background:#105cbc;
+	clear:both;
+	}
+.b2{
+	width:964px;
+	height:36px;
+	margin:0 auto;
+	}
+.b2 ul li{
+	list-style:none;
+	font-size:12px;
+	float:left;
+	padding:0 30px;
+	line-height:36px;
+	background:url(img1/2.png) no-repeat right center;
+	}
+.b2 ul li:last-child{
+	background:none;
+	}
+.b2 ul li a{
+	color:#FFF;
+	}
+.a3{
+	width:964px;
+	height:290px;
+	margin:5px auto;
+	}
+.a4{
+	width:964px;
+	height:274px;
+	margin:0 auto;
+	}
+.b3{
+	width:598px;
+	height:274px;
+	float:left;
+	border:1px solid #999;
+	border-radius:5px;
+	}
+.b3 input{
+	margin:5px 5px;
+	}
+.b3 input:first-child{
+	background:#005fcb;
+	}
+.b3 input:nth-child(2),.b3 input:nth-child(3){
+	background:#e98c01;
+	}
+#i1{
+	float:right;
+	padding-right:33px;
+	padding-top:20px;
+	}
+.b3 dl{
+	width:189px;
+	float:left;
+	}
+#i3{
+	clear:both;
+	}
+.b3 dl dt img{
+	float:left;
+	padding:0px 30px;
+	padding-top:40px;
+	}
+.b3 dl dd p{
+	clear:both;
+	font-size:14px;	
+	}
+#i2{
+	text-align:center;
+	padding-top:10px;
+	}
+.b4{
+	width:354px;
+	height:274px;
+	float:right;
+	border:1px solid #999;
+	border-radius:5px;
+	}
+.b4 p{
+	float:left;
+	padding:15px;
+	}
+.b4 ul li{
+	list-style:none;
+	font-size:12px;
+	float:left;
+	padding: 3px 10px;
+	}
+.b4 ul li a{
+	color:#f38105;
+	}
+#i4{
+	color:#44525f;
+	padding-left:44px;
+	background:url(img1/6.png) no-repeat 33px center;
+	}
+.a5{
+	width:964px;
+	height:30px;
+	background:#0363d3;
+	margin:10px auto;
+	}
+.a5 input{
+	margin:4px 36px;
+	background:url(img1/7.png) repeat-x;
+	color:#4a5362;
+	float:left;
+	}
+.a5 ul li{
+	list-style:none;
+	line-height:36px;
+	padding:0 15px;	
+	float:left;
+	font-size:12px;
+	background:url(img1/8.png) no-repeat right center; 
+	}
+.a5 ul li:last-child{
+	background:none;
+	}
+.a5 ul li a{
+	color:#FFF;
+	}
+.a6{
+	width:964px;
+	height:150px;
+	margin:10px auto;
+	}
+.a6 p{
+	text-align:center;
+	color:#4a5362;
+	padding:10px 0;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
